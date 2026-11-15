@@ -1,0 +1,13 @@
+<!-- Favicon version of the "Grid R" mark. Simplified for 16-32 px: the modules touch (no gaps)
+     and sit on a dark tile, so the shape stays readable on light and dark browser tabs. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#2B2420"/>
+  <g fill="#EFEAE2">
+    <rect x="14" y="9" width="9" height="45"/>   <!-- stem -->
+    <rect x="14" y="9" width="27" height="9"/>   <!-- top bar -->
+    <rect x="41" y="18" width="9" height="9"/>   <!-- bowl, right side -->
+    <rect x="14" y="27" width="27" height="9"/>  <!-- middle bar -->
+    <rect x="32" y="36" width="9" height="9"/>   <!-- leg -->
+  </g>
+  <rect x="41" y="45" width="9" height="9" fill="#E3A07F" transform="rotate(-12 45.5 49.5)"/> <!-- foot: the piece locking in -->
+</svg>

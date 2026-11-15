@@ -1,0 +1,13 @@
+<!-- Ramadhan Technology mark "Grid R": colour version for light backgrounds.
+     An R built from equal square modules on a 4x5 grid. The last module (the foot) is tilted
+     and orange: the final piece about to lock into place. Original artwork for this project. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 62" role="img" aria-label="Ramadhan Technology">
+  <g fill="#2B2420">
+    <rect x="1" y="1" width="10" height="10" rx="1"/><rect x="13" y="1" width="10" height="10" rx="1"/><rect x="25" y="1" width="10" height="10" rx="1"/>
+    <rect x="1" y="13" width="10" height="10" rx="1"/><rect x="37" y="13" width="10" height="10" rx="1"/>
+    <rect x="1" y="25" width="10" height="10" rx="1"/><rect x="13" y="25" width="10" height="10" rx="1"/><rect x="25" y="25" width="10" height="10" rx="1"/>
+    <rect x="1" y="37" width="10" height="10" rx="1"/><rect x="25" y="37" width="10" height="10" rx="1"/>
+    <rect x="1" y="49" width="10" height="10" rx="1"/>
+  </g>
+  <rect x="38" y="48" width="10" height="10" rx="1" fill="#9A4125" transform="rotate(-14 43 53)"/>
+</svg>

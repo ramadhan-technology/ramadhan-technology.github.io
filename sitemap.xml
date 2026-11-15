@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ramadhan-technology.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/services.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/work.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/work.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/work.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/about.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/contact.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/ms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/ms/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/services.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/ms/work.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/work.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/work.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/ms/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/about.html"/>
+  </url>
+  <url>
+    <loc>https://ramadhan-technology.github.io/ms/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadhan-technology.github.io/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://ramadhan-technology.github.io/ms/contact.html"/>
+  </url>
+</urlset>
