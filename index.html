@@ -93,6 +93,20 @@
     }
 }
   </script>
+  <!-- Site name for Google Search: WebSite structured data, on the site's home page only (added 2026-11-17).
+       Without it Google showed "GitHub" as the site name. alternateName includes the subdomain as a backup (Google's advice). -->
+  <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Ramadhan Technology",
+    "alternateName": [
+        "Ramadhan Tech",
+        "ramadhan-technology.github.io"
+    ],
+    "url": "https://ramadhan-technology.github.io/"
+}
+  </script>
 
   <!-- Preload the two fonts so the headline does not flash in a fallback font. -->
   <link rel="preload" href="assets/fonts/figtree-latin-var.woff2" as="font" type="font/woff2" crossorigin>
